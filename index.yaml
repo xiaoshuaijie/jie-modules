@@ -1,4 +1,5 @@
 namespace: jie-org
 modules:
   - https://github.com/xiaoshuaijie/JY61P.git
-  
+  - https://github.com/xiaoshuaijie/MPU6050.git
+  - https://github.com/xiaoshuaijie/NRF24L01.git
