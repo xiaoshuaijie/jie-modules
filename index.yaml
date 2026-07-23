@@ -4,3 +4,4 @@ modules:
   - https://github.com/xiaoshuaijie/MPU6050.git
   - https://github.com/xiaoshuaijie/NRF24L01.git
   - https://github.com/verdancy-org/BitsButtonXR.git
+  - https://github.com/xiaoshuaijie/HC_SR04.git
