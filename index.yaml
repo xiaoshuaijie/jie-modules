@@ -8,3 +8,4 @@ modules:
   - https://github.com/xiaoshuaijie/Tracking.git
   - https://github.com/xiaoshuaijie/encoder.git
   - https://github.com/xiaoshuaijie/dian_chassis.git
+  - https://github.com/verdancy-org/DisplaySurface.git
