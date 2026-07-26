@@ -11,3 +11,4 @@ modules:
   - https://github.com/verdancy-org/DisplaySurface.git
   - https://github.com/verdancy-org/Display.git
   - https://github.com/xiaoshuaijie/encoder.git
+  - https://github.com/verdancy-org/WS2812.git
