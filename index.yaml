@@ -12,3 +12,5 @@ modules:
   - https://github.com/verdancy-org/Display.git
   - https://github.com/xiaoshuaijie/encoder.git
   - https://github.com/verdancy-org/WS2812.git
+  - https://github.com/verdancy-org/Dial.git
+  - https://github.com/verdancy-org/LSM6DS3TRC.git
