@@ -15,3 +15,4 @@ modules:
   - https://github.com/verdancy-org/Dial.git
   - https://github.com/verdancy-org/LSM6DS3TRC.git
   - https://github.com/verdancy-org/SSD1306.git
+  - https://github.com/xiaoshuaijie/I6X-I6.git
