@@ -1,3 +1,4 @@
 namespace: jie-org
 modules:
   - https://github.com/xiaoshuaijie/I6X.git
+  - https://github.com/xiaoshuaijie/MS5837.git
